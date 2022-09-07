@@ -1,7 +1,0 @@
-﻿Build started...
-1>------ Build started: Project: Week2Assignment, Configuration: Debug Win32 ------
-1>Week2Assignment.cpp
-1>C:\Users\garre\source\repos\Week2Assignment\Week2Assignment.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
-1>Week2Assignment.vcxproj -> C:\Users\garre\source\repos\Week2Assignment\Debug\Week2Assignment.exe
-1>Done building project "Week2Assignment.vcxproj".
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
